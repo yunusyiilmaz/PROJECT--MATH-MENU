@@ -1,0 +1,23 @@
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\bin\Debug\MATEMATİK MENÜSÜ.exe.config
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\bin\Debug\MATEMATİK MENÜSÜ.exe
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\bin\Debug\MATEMATİK MENÜSÜ.pdb
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.csproj.AssemblyReference.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.csproj.SuggestedBindingRedirects.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.csproj.CoreCompileInputs.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.exe
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.pdb
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\bin\Debug\MATEMATİK MENÜSÜ.exe.config
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\bin\Debug\MATEMATİK MENÜSÜ.exe
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\bin\Debug\MATEMATİK MENÜSÜ.pdb
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.csproj.AssemblyReference.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.csproj.SuggestedBindingRedirects.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.csproj.CoreCompileInputs.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.exe
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.pdb
+D:\Kişisel\Yunus\YAZILIM PROJE\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\bin\Debug\MATEMATİK MENÜSÜ.exe.config
+D:\Kişisel\Yunus\YAZILIM PROJE\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\bin\Debug\MATEMATİK MENÜSÜ.exe
+D:\Kişisel\Yunus\YAZILIM PROJE\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\bin\Debug\MATEMATİK MENÜSÜ.pdb
+D:\Kişisel\Yunus\YAZILIM PROJE\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.csproj.AssemblyReference.cache
+D:\Kişisel\Yunus\YAZILIM PROJE\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.csproj.CoreCompileInputs.cache
+D:\Kişisel\Yunus\YAZILIM PROJE\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.exe
+D:\Kişisel\Yunus\YAZILIM PROJE\PROJE 2=MATEMATİK MENÜSÜ\MATEMATİK MENÜSÜ\obj\Debug\MATEMATİK MENÜSÜ.pdb
